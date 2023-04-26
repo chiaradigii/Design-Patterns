@@ -1,0 +1,15 @@
+C:\Users\Leonardo\Documents\2023 ININF\Inegnieria de software\Patrones de diseño\PatronIteratorConsola\bin\Debug\net6.0\PatronIteratorConsola.exe
+C:\Users\Leonardo\Documents\2023 ININF\Inegnieria de software\Patrones de diseño\PatronIteratorConsola\bin\Debug\net6.0\PatronIteratorConsola.deps.json
+C:\Users\Leonardo\Documents\2023 ININF\Inegnieria de software\Patrones de diseño\PatronIteratorConsola\bin\Debug\net6.0\PatronIteratorConsola.runtimeconfig.json
+C:\Users\Leonardo\Documents\2023 ININF\Inegnieria de software\Patrones de diseño\PatronIteratorConsola\bin\Debug\net6.0\PatronIteratorConsola.dll
+C:\Users\Leonardo\Documents\2023 ININF\Inegnieria de software\Patrones de diseño\PatronIteratorConsola\bin\Debug\net6.0\PatronIteratorConsola.pdb
+C:\Users\Leonardo\Documents\2023 ININF\Inegnieria de software\Patrones de diseño\PatronIteratorConsola\obj\Debug\net6.0\PatronIteratorConsola.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Documents\2023 ININF\Inegnieria de software\Patrones de diseño\PatronIteratorConsola\obj\Debug\net6.0\PatronIteratorConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Documents\2023 ININF\Inegnieria de software\Patrones de diseño\PatronIteratorConsola\obj\Debug\net6.0\PatronIteratorConsola.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Documents\2023 ININF\Inegnieria de software\Patrones de diseño\PatronIteratorConsola\obj\Debug\net6.0\PatronIteratorConsola.AssemblyInfo.cs
+C:\Users\Leonardo\Documents\2023 ININF\Inegnieria de software\Patrones de diseño\PatronIteratorConsola\obj\Debug\net6.0\PatronIteratorConsola.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Documents\2023 ININF\Inegnieria de software\Patrones de diseño\PatronIteratorConsola\obj\Debug\net6.0\PatronIteratorConsola.dll
+C:\Users\Leonardo\Documents\2023 ININF\Inegnieria de software\Patrones de diseño\PatronIteratorConsola\obj\Debug\net6.0\refint\PatronIteratorConsola.dll
+C:\Users\Leonardo\Documents\2023 ININF\Inegnieria de software\Patrones de diseño\PatronIteratorConsola\obj\Debug\net6.0\PatronIteratorConsola.pdb
+C:\Users\Leonardo\Documents\2023 ININF\Inegnieria de software\Patrones de diseño\PatronIteratorConsola\obj\Debug\net6.0\PatronIteratorConsola.genruntimeconfig.cache
+C:\Users\Leonardo\Documents\2023 ININF\Inegnieria de software\Patrones de diseño\PatronIteratorConsola\obj\Debug\net6.0\ref\PatronIteratorConsola.dll
