@@ -1,0 +1,11 @@
+C:\Users\Leonardo\Documents\2023 ININF\Inegnieria de software\Patrones de diseño\PatronComposite\bin\Debug\PatronComposite.exe.config
+C:\Users\Leonardo\Documents\2023 ININF\Inegnieria de software\Patrones de diseño\PatronComposite\bin\Debug\PatronComposite.exe
+C:\Users\Leonardo\Documents\2023 ININF\Inegnieria de software\Patrones de diseño\PatronComposite\bin\Debug\PatronComposite.pdb
+C:\Users\Leonardo\Documents\2023 ININF\Inegnieria de software\Patrones de diseño\PatronComposite\obj\Debug\PatronComposite.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Documents\2023 ININF\Inegnieria de software\Patrones de diseño\PatronComposite\obj\Debug\PatronComposite.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leonardo\Documents\2023 ININF\Inegnieria de software\Patrones de diseño\PatronComposite\obj\Debug\PatronComposite.Form1.resources
+C:\Users\Leonardo\Documents\2023 ININF\Inegnieria de software\Patrones de diseño\PatronComposite\obj\Debug\PatronComposite.Properties.Resources.resources
+C:\Users\Leonardo\Documents\2023 ININF\Inegnieria de software\Patrones de diseño\PatronComposite\obj\Debug\PatronComposite.csproj.GenerateResource.cache
+C:\Users\Leonardo\Documents\2023 ININF\Inegnieria de software\Patrones de diseño\PatronComposite\obj\Debug\PatronComposite.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Documents\2023 ININF\Inegnieria de software\Patrones de diseño\PatronComposite\obj\Debug\PatronComposite.exe
+C:\Users\Leonardo\Documents\2023 ININF\Inegnieria de software\Patrones de diseño\PatronComposite\obj\Debug\PatronComposite.pdb
